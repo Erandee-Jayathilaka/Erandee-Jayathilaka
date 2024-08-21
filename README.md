@@ -17,8 +17,7 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40"/>  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
   
 </p>
 
