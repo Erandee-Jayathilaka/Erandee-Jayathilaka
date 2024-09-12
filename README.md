@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erandee-Jayathilaka
-- 👀 I’m interested in IC design, digital electronics and IoT.
+- 👀 I’m interested in IC design, embedded systems, digital electronics and IoT.
 - 🌱 I’m currently learning Electronics and Telecommunications Engineering
 - 💞️ I’m looking to collaborate on projects relevant to IC design, digital electronics and IoT
 - 📫 How to reach me : erandeejayathilaka@gmail.com
